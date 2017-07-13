@@ -1,0 +1,9 @@
+.SearchBarBoxWhat {
+    float: left;
+    margin: 26px; 
+}
+
+.SearchBarBoxWhat input {
+    width: 280px;
+    padding: 14px 6px;
+}

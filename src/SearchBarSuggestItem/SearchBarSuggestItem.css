@@ -1,0 +1,8 @@
+.SuggestItem {
+    display: flex;
+    padding: 0 1em;
+}
+
+.SuggestHeader {
+    padding: 1em;
+}

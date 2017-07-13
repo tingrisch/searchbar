@@ -1,0 +1,176 @@
+{
+	"echo": "hno",
+	"query": "hno",
+	"suggests": [{
+		"header": "Fachbereiche",
+		"list": [{
+			"score": 980,
+			"showSelect": "HNO",
+			"select": "gruppe=HA&fachgebiet=F17",
+			"term": "HNO",
+			"info": "Arzt",
+			"pl": "46#7091",
+			"group": "Fachbereiche",
+			"fold": "79"
+		}, {
+			"score": 973,
+			"showSelect": "HNO-Arzt",
+			"select": "gruppe=HA&fachgebiet=F17",
+			"term": "HNO-Arzt",
+			"info": "Arzt",
+			"pl": "55#7091",
+			"group": "Fachbereiche",
+			"fold": "79"
+		}, {
+			"score": 963,
+			"showSelect": "HNO-Ärzte",
+			"select": "gruppe=HA&fachgebiet=F17",
+			"term": "HNO-Ärzte",
+			"info": "Ärzte",
+			"pl": "53#7091",
+			"group": "Fachbereiche",
+			"fold": "79"
+		}, {
+			"score": 962,
+			"showSelect": "HNO-Ärztin",
+			"select": "gruppe=HA&fachgebiet=F17",
+			"term": "HNO-Ärztin",
+			"info": "Arzt",
+			"pl": "54#7091",
+			"group": "Fachbereiche",
+			"fold": "79"
+		}]
+	}, {
+		"header": "Namen",
+		"list": [{
+			"score": 803,
+			"showSelect": "MVZ HNO",
+			"term": "MVZ HNO",
+			"info": " Trier",
+			"deeplink": "/profil/71458918000_2?beta=1",
+			"type": "institution",
+			"group": "Namen",
+			"fold": "175665"
+		}, {
+			"score": 795,
+			"showSelect": "HNO Klinik",
+			"term": "HNO Klinik",
+			"info": "Klinik Neuss",
+			"deeplink": "/profil/70033260000_2?beta=1",
+			"type": "institution",
+			"group": "Namen",
+			"fold": "59272"
+		}, {
+			"score": 792,
+			"showSelect": "HNO-Zentrum",
+			"term": "HNO-Zentrum",
+			"info": " Ratingen",
+			"deeplink": "/profil/71298295000_2?beta=1",
+			"type": "institution",
+			"group": "Namen",
+			"fold": "160690"
+		}, {
+			"score": 779,
+			"showSelect": "HNOmedic Freiham",
+			"term": "HNOmedic Freiham",
+			"info": " München",
+			"deeplink": "/profil/71465922000_2?beta=1",
+			"type": "institution",
+			"group": "Namen",
+			"fold": "176261"
+		}, {
+			"score": 771,
+			"showSelect": "HNO-Facharztcentrum",
+			"term": "HNO-Facharztcentrum",
+			"info": " Mülheim",
+			"deeplink": "/profil/70745162000_2?beta=1",
+			"type": "institution",
+			"group": "Namen",
+			"fold": "95599"
+		}, {
+			"score": 768,
+			"showSelect": "HNO Praxis Eppendorf",
+			"term": "HNO Praxis Eppendorf",
+			"info": " Hamburg",
+			"deeplink": "/profil/71317775000_2?beta=1",
+			"type": "institution",
+			"group": "Namen",
+			"fold": "162258"
+		}, {
+			"score": 762,
+			"showSelect": "Klinik f. HNO-Heilkunde",
+			"term": "Klinik f. HNO-Heilkunde",
+			"info": "Klinik Duisburg",
+			"deeplink": "/profil/70041236000_2?beta=1",
+			"type": "institution",
+			"group": "Namen",
+			"fold": "63252"
+		}, {
+			"score": 762,
+			"showSelect": "Klinik f. HNO-Heilkunde",
+			"term": "Klinik f. HNO-Heilkunde",
+			"info": "Klinik Frankfurt",
+			"deeplink": "/profil/70031023000_2?beta=1",
+			"type": "institution",
+			"group": "Namen",
+			"fold": "57667"
+		}, {
+			"score": 762,
+			"showSelect": "Klinik f. HNO-Heilkunde",
+			"term": "Klinik f. HNO-Heilkunde",
+			"info": "Klinik Bad Hersfeld",
+			"deeplink": "/profil/70029686000_2?beta=1",
+			"type": "institution",
+			"group": "Namen",
+			"fold": "56761"
+		}, {
+			"score": 762,
+			"showSelect": "HNO-Klinik Dr. Gaertner",
+			"term": "HNO-Klinik Dr. Gaertner",
+			"info": "Klinik München",
+			"deeplink": "/profil/70028137000_2?beta=1",
+			"type": "institution",
+			"group": "Namen",
+			"fold": "55895"
+		}, {
+			"score": 762,
+			"showSelect": "Klinik f. HNO-Heilkunde",
+			"term": "Klinik f. HNO-Heilkunde",
+			"info": "Klinik Marburg",
+			"deeplink": "/profil/70029449000_2?beta=1",
+			"type": "institution",
+			"group": "Namen",
+			"fold": "56595"
+		}, {
+			"score": 760,
+			"showSelect": "Carl-Thiem-Klinikum HNO",
+			"term": "Carl-Thiem-Klinikum HNO",
+			"info": "Klinik Cottbus",
+			"deeplink": "/profil/70064563000_2?beta=1",
+			"type": "institution",
+			"group": "Namen",
+			"fold": "66687"
+		}, {
+			"score": 760,
+			"showSelect": "Stadtklinik Werdohl HNO",
+			"term": "Stadtklinik Werdohl HNO",
+			"info": "Klinik Werdohl",
+			"deeplink": "/profil/70034550000_2?beta=1",
+			"type": "institution",
+			"group": "Namen",
+			"fold": "60149"
+		}]
+	}, {
+		"header": "Symptome, Keywords, passende Fachbereiche",
+		"list": [{
+			"score": 885,
+			"showSelect": "Kinder-HNO",
+			"select": "gruppe=HA&fachgebiet=F17&kid=14812&kuid=14872",
+			"term": "Kinder-HNO",
+			"info": "HNO-Ärzte",
+			"pl": "35#7091",
+			"group": "Symptome, Keywords, passende Fachbereiche",
+			"fold": "331"
+		}]
+	}]
+}

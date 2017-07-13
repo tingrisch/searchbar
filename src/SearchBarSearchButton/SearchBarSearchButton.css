@@ -1,0 +1,13 @@
+.SearchBarSearchButton {
+    padding: 26px; 
+}
+
+.SearchBarSearchButton input {
+    width: 122px;
+    height: 40px;
+    background-image: none;
+    font-family: jamedaMedium,Arial,Helvetica,sans-serif;
+    font-size: 20px;
+    line-height: 17px;
+    color: #000;
+}

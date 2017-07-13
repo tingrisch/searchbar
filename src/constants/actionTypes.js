@@ -1,0 +1,1 @@
+export const ENTER_SEARCHTERM = "ENTER_SEARCHTERM";
